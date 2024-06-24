@@ -190,7 +190,7 @@ Please check <a href="/database/models/">Model Basic</a> for Common methods.
 
 $subscriber = FluentCrm\App\Models\Subscriber::find(1);
 
-$subsctiber->id; // returns id
+$subscriber->id; // returns id
 $subscriber->email; // returns email
 .......
 ```
